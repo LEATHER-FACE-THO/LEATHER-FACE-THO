@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>📊 Estadísticas de GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=HANNIBAL-THO&show_icons=true&theme=gotham" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LEATHER-FACE-THO&show_icons=true&theme=gotham" alt="Estadísticas de GitHub" />
 </div>
 
 <div align="center">
