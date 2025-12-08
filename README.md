@@ -5,11 +5,6 @@
 </p>
 
 <div align="center">
-  <h3>📊 Estadísticas de GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=LEATHER-FACE-THO&show_icons=true&theme=gotham" alt="Estadísticas de GitHub" />
-</div>
-
-<div align="center">
   <h3>🎵 Escuchando ahora</h3>
   
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00FF00)](https://open.spotify.com/track/6ffor699mq8QEnCiqtINPp)
